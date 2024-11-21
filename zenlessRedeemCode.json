@@ -22,6 +22,14 @@
         "W-Engine Power Supply x3",
         "Bangboo Algorithm Module x1"
       ]
+    },
+    {
+      "code": "YANAGIGIFTALL",
+      "rewards": [
+        "10,000x Official Investigator Log",
+        "10x W-Engine Power Supply",
+        "10x Crystallized Plating Agent"
+      ]
     }
   ],
   "inactive": [
@@ -120,6 +128,29 @@
       "rewards": [
         "Polychrome x50",
         "Denny x6,000"
+      ]
+    },
+    {
+      "code": "TOURDEINFERNO",
+      "rewards": [
+        "300x Polychromes",
+        "30,000x Denny",
+        "2x Senior Investigator Logs",
+        "3x W-Engine Energy Modules"
+      ]
+    },
+    {
+      "code": "UNDERCOVERRNB",
+      "rewards": [
+        "30,000x Denny",
+        "2x Senior Investigator Logs",
+        "3x W-Engine Energy Modules"
+      ]
+    },
+    {
+      "code": "ZZZ4PCPCREDEEMCODE",
+      "rewards": [
+        "50x Polychrome"
       ]
     }
   ]
