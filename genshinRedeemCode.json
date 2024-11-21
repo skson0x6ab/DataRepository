@@ -149,6 +149,13 @@
       ]
     },
     {
+      "code": "WAM5UWWU28NV",
+      "rewards": [
+        "Primogem ×60",
+        "Adventurer's Experience ×5"
+      ]
+    },
+    {
       "code": "genshin52x8399",
       "rewards": [
         "Mora ×30,000",
@@ -159,10 +166,69 @@
       ]
     },
     {
-      "code": "WAM5UWWU28NV",
+      "code": "EMVDUW5HW812",
       "rewards": [
-        "Primogem ×60",
-        "Adventurer's Experience ×5"
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
+      ]
+    },
+    {
+      "code": "GENSHIN52X8399",
+      "rewards": [
+        "Mora ×30,000",
+        "Hero's Wit ×3",
+        "Guide to Kindling ×3",
+        "Mystic Enhancement Ore ×5",
+        "Vayuda Turquoise Sliver ×3"
+      ]
+    },
+    {
+      "code": "HVDLKWNWA638",
+      "rewards": [
+        "Brilliant Chrysanthemum ×3",
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5"
+      ]
+    },
+    {
+      "code": "HVDLX51ZNOMF",
+      "rewards": [
+        "Brilliant Chrysanthemum ×3",
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5"
+      ]
+    },
+    {
+      "code": "PAGG36WC1699",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
+      ]
+    },
+    {
+      "code": "SBUE3NT47K26",
+      "rewards": [
+        "Brilliant Chrysanthemum ×3",
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5"
+      ]
+    },
+    {
+      "code": "SBUEE52V164A",
+      "rewards": [
+        "Brilliant Chrysanthemum ×3",
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5"
       ]
     }
   ]
