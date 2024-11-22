@@ -97,6 +97,27 @@
         "Materials",
         "Credits"
       ]
+    },
+    {
+      "code": "UAJJDY9E8JJT",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "MTJ2CG9XRK2F",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "DSJKDYQF82J3",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
+      ]
     }
   ],
   "inactive": [
