@@ -230,6 +230,34 @@
         "Adventurer's Experience ×10",
         "Fine Enhancement Ore ×5"
       ]
+    },
+    {
+      "code": "ACUI96V85FCK",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Seasoned Fang ×3"
+      ]
+    },
+    {
+      "code": "FIBE54PL5995",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
+      ]
+    },
+    {
+      "code": "SDKLSK67TZ1X",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Seasoned Fang ×3"
+      ]
     }
   ]
 }
