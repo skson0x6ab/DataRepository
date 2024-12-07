@@ -30,15 +30,6 @@
         "10x W-Engine Power Supply",
         "10x Crystallized Plating Agent"
       ]
-    },
-    {
-      "code": "VOIDHUNTER",
-      "rewards": [
-        "Polychromes x300",
-        "Senior Investigator Log x2",
-        "W-Engine Energy Modules x3",
-        "Dennies x30,000"
-      ]
     }
   ],
   "inactive": [
@@ -160,6 +151,15 @@
       "code": "ZZZ4PCPCREDEEMCODE",
       "rewards": [
         "50x Polychrome"
+      ]
+    },
+    {
+      "code": "VOIDHUNTER",
+      "rewards": [
+        "Polychromes x300",
+        "Senior Investigator Log x2",
+        "W-Engine Energy Modules x3",
+        "Dennies x30,000"
       ]
     }
   ]
