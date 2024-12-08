@@ -15,6 +15,43 @@
         "Stellar Jade x50",
         "Credit x10,000"
       ]
+    },
+    {
+      "code": "HAPPYSUNDAY",
+      "rewards": [
+        "Halovian Winged Burger x2",
+        "Credits x5,000"
+      ]
+    },
+    {
+      "code": "SUNDAYCALENDAR",
+      "rewards": [
+        "Traveler's Guide x5",
+        "Classic SoulGlad x2"
+      ]
+    },
+    {
+      "code": "TINGYUNISBACK",
+      "rewards": [
+        "Immortal's Delight x2",
+        "Credits x5,000"
+      ]
+    },
+    {
+      "code": "VCUB4T2V4L8N5",
+      "rewards": [
+        "Refined Aether x3",
+        "Classic SoulGlad x3",
+        "Credits x20,000"
+      ]
+    },
+    {
+      "code": "WOVPRK19JGM41",
+      "rewards": [
+        "Lost Crystal x3",
+        "Dreamy Cone (Three Flavors) x3",
+        "Credits x20,000"
+      ]
     }
   ],
   "inactive": [
