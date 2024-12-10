@@ -30,6 +30,12 @@
         "10x W-Engine Power Supply",
         "10x Crystallized Plating Agent"
       ]
+    },
+    {
+      "code": "HARUMASAFREE",
+      "rewards": [
+        "50 Polychrome"
+      ]
     }
   ],
   "inactive": [
