@@ -8,13 +8,6 @@
       ]
     },
     {
-      "code": "LA5E77CLZX5V",
-      "rewards": [
-        "Primogem ×60",
-        "Adventurer's Experience ×5"
-      ]
-    },
-    {
       "code": "WAM5UWWU28NV",
       "rewards": [
         "Primogem ×60",
@@ -56,6 +49,16 @@
         "Adventurer's Experience ×10",
         "Fine Enhancement Ore ×5",
         "Seasoned Fang ×3"
+      ]
+    },
+    {
+      "code": "EAOL18BJ8S64",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
       ]
     }
   ],
@@ -124,6 +127,13 @@
       "rewards": [
         "Primogem ×100",
         "Mora ×50,000"
+      ]
+    },
+    {
+      "code": "LA5E77CLZX5V",
+      "rewards": [
+        "Primogem ×60",
+        "Adventurer's Experience ×5"
       ]
     },
     {
