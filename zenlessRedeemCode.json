@@ -27,6 +27,18 @@
       "rewards": [
         "x3 Senior Investigator Logs, x3 W-Engine Energy Module, x3 Ether Plating Agent, x1 Ether Battery, 50k Dennies"
       ]
+    },
+    {
+      "code": "MIYABIRELEASE",
+      "rewards": [
+        "Polychrome x60"
+      ]
+    },
+    {
+      "code": "ZZZASSEMBLE",
+      "rewards": [
+        "Polychrome x30"
+      ]
     }
   ],
   "inactive": [
