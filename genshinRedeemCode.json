@@ -60,6 +60,27 @@
         "Stir-Fried Fish Noodles ×5",
         "Jueyun Chili Chicken ×5"
       ]
+    },
+    {
+      "code": "UAMPGJASECZH",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
+      "code": "LT5NH2TTXUHM",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "4SLPH3BSFVH9",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
+      ]
     }
   ],
   "inactive": [
@@ -276,6 +297,27 @@
         "Mora ×10,000",
         "Adventurer's Experience ×10",
         "Fine Enhancement Ore ×5"
+      ]
+    },
+    {
+      "code": "PEUWTLCPB2R2",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
+      "code": "CXDFS4CNBJRN",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "8EVXSMCPCYAA",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
       ]
     }
   ]
