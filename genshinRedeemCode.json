@@ -81,6 +81,12 @@
         "100 Primogems",
         "50,000 Mora"
       ]
+    },
+    {
+      "code": "STANDWITHMAVUIKA",
+      "rewards": [
+        "Primogem ×30"
+      ]
     }
   ],
   "inactive": [
