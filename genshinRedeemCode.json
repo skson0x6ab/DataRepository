@@ -62,27 +62,6 @@
       ]
     },
     {
-      "code": "UAMPGJASECZH",
-      "rewards": [
-        "100 Primogems",
-        "10 Mystic Enhancement Ore"
-      ]
-    },
-    {
-      "code": "LT5NH2TTXUHM",
-      "rewards": [
-        "100 Primogems",
-        "5 Hero's Wit"
-      ]
-    },
-    {
-      "code": "4SLPH3BSFVH9",
-      "rewards": [
-        "100 Primogems",
-        "50,000 Mora"
-      ]
-    },
-    {
       "code": "STANDWITHMAVUIKA",
       "rewards": [
         "Primogem ×30"
@@ -313,10 +292,31 @@
       ]
     },
     {
+      "code": "UAMPGJASECZH",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
       "code": "CXDFS4CNBJRN",
       "rewards": [
         "100 Primogems",
         "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "LT5NH2TTXUHM",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "4SLPH3BSFVH9",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
       ]
     },
     {
