@@ -62,12 +62,6 @@
       ]
     },
     {
-      "code": "STANDWITHMAVUIKA",
-      "rewards": [
-        "Primogem ×30"
-      ]
-    },
-    {
       "code": "GSXB7OA",
       "rewards": [
         "Mora ×30,000",
@@ -424,6 +418,12 @@
       "rewards": [
         "100 Primogems",
         "50,000 Mora"
+      ]
+    },
+    {
+      "code": "STANDWITHMAVUIKA",
+      "rewards": [
+        "Primogem ×30"
       ]
     }
   ]
