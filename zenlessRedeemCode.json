@@ -17,12 +17,6 @@
       ]
     },
     {
-      "code": "HARUMASAFREE",
-      "rewards": [
-        "50 Polychrome"
-      ]
-    },
-    {
       "code": "ZZZFM",
       "rewards": [
         "x3 Senior Investigator Logs, x3 W-Engine Energy Module, x3 Ether Plating Agent, x1 Ether Battery, 50k Dennies"
@@ -206,6 +200,12 @@
       "rewards": [
         "50x Polychrome",
         "6,000x Denny"
+      ]
+    },
+    {
+      "code": "HARUMASAFREE",
+      "rewards": [
+        "50 Polychrome"
       ]
     }
   ]
