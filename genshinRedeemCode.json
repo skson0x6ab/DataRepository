@@ -6,23 +6,6 @@
         "Primogem ×50",
         "Hero's Wit ×3"
       ]
-    },
-    {
-      "code": "WAM5UWWU28NV",
-      "rewards": [
-        "Primogem ×60",
-        "Adventurer's Experience ×5"
-      ]
-    },
-    {
-      "code": "WEAV365PI953",
-      "rewards": [
-        "Withering Purpurbloom ×3",
-        "Quenepa Berry ×3",
-        "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×3"
-      ]
     }
   ],
   "inactive": [
@@ -163,6 +146,13 @@
         "Mora ×10,000",
         "Adventurer's Experience ×10",
         "Fine Enhancement Ore ×5"
+      ]
+    },
+    {
+      "code": "WAM5UWWU28NV",
+      "rewards": [
+        "Primogem ×60",
+        "Adventurer's Experience ×5"
       ]
     },
     {
@@ -444,6 +434,16 @@
         "Guide to Contention ×3",
         "Mystic Enhancement Ore ×5",
         "Agnidus Agate Sliver ×3"
+      ]
+    },
+    {
+      "code": "WEAV365PI953",
+      "rewards": [
+        "Withering Purpurbloom ×3",
+        "Quenepa Berry ×3",
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×3"
       ]
     }
   ]
