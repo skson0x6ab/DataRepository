@@ -52,27 +52,6 @@
         "50 Stellar Jades",
         "EXP materials"
       ]
-    },
-    {
-      "code": "HSR320250115",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x50000 Credit"
-      ]
-    },
-    {
-      "code": "HSR3AMPHOREUS",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x5 Traveler's Guide"
-      ]
-    },
-    {
-      "code": "HSR3DAWEISGIFT",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x4 Refined Aether"
-      ]
     }
   ],
   "inactive": [
@@ -1112,6 +1091,27 @@
         "x3 Condensed Aether",
         "x2 Lost Gold Fragment",
         "x3 Halovian Winged Burger"
+      ]
+    },
+    {
+      "code": "HSR320250115",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "HSR3AMPHOREUS",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "HSR3DAWEISGIFT",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
       ]
     },
     {
