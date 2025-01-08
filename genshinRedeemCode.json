@@ -20,6 +20,14 @@
         "Primogem ×60",
         "Adventurer's Experience ×5"
       ]
+    },
+    {
+      "code": "FORNATLAN",
+      "rewards": [
+        "40 Primogem",
+        "5 Withering Purpurbloom",
+        "3 Warrior's Metal Whistle"
+      ]
     }
   ],
   "inactive": [
