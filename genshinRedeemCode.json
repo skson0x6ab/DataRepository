@@ -28,18 +28,6 @@
         "5 Withering Purpurbloom",
         "3 Warrior's Metal Whistle"
       ]
-    },
-    {
-      "code": "KAM7UKZGVRXZ",
-      "rewards": [
-        "Mora 20000",
-        "Stuffed N' Mashed Potatoes 1",
-        "Fruity Trio 1",
-        "Chocolate 2",
-        "Goulash 1",
-        "Sweet Madame 1",
-        "Chenyu Brew 1"
-      ]
     }
   ],
   "inactive": [
@@ -533,6 +521,18 @@
       "code": "NEWTEST",
       "rewards": [
         "Primogem ×30"
+      ]
+    },
+    {
+      "code": "KAM7UKZGVRXZ",
+      "rewards": [
+        "Mora 20000",
+        "Stuffed N' Mashed Potatoes 1",
+        "Fruity Trio 1",
+        "Chocolate 2",
+        "Goulash 1",
+        "Sweet Madame 1",
+        "Chenyu Brew 1"
       ]
     }
   ]
