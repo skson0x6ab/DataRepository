@@ -104,6 +104,66 @@
         "Traveler's Guide x3",
         "Credits x30,000"
       ]
+    },
+    {
+      "code": "AMPHOREUS0115",
+      "rewards": [
+        "5000 Credits",
+        "x2 Clockie Pizza (Whole)"
+      ]
+    },
+    {
+      "code": "AWAITSYOURLIGHT",
+      "rewards": [
+        "5000 Credits",
+        "x2 Golden Slumbernana"
+      ]
+    },
+    {
+      "code": "DEF3C9D0E1F2",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Cosmic Fried Rice"
+      ]
+    },
+    {
+      "code": "HSRINGAMESTOP",
+      "rewards": [
+        "10,000 Credits",
+        "x4 Adventure Log",
+        "x2 Lost Gold Fragment",
+        "x3 Sweet Dreams Holographic Ticket"
+      ]
+    },
+    {
+      "code": "LIGHTTHEWAY",
+      "rewards": [
+        "5000 Credits",
+        "x2 Odd Gummy Candy"
+      ]
+    },
+    {
+      "code": "REMEMBRANCE",
+      "rewards": [
+        "5000 Credits",
+        "x2 Potato Fries Sundae"
+      ]
+    },
+    {
+      "code": "THEETERNALLAND",
+      "rewards": [
+        "5000 Credits",
+        "x2 Alfafa Salad"
+      ]
+    },
+    {
+      "code": "TT33Z3K5T7V1",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Lost Crystal",
+        "x3 Clockie Pizza (Whole)"
+      ]
     }
   ],
   "inactive": [
