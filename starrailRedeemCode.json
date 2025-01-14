@@ -10,27 +10,6 @@
       ]
     },
     {
-      "code": "HAPPYSUNDAY",
-      "rewards": [
-        "Halovian Winged Burger x2",
-        "Credits x5,000"
-      ]
-    },
-    {
-      "code": "SUNDAYCALENDAR",
-      "rewards": [
-        "Traveler's Guide x5",
-        "Classic SoulGlad x2"
-      ]
-    },
-    {
-      "code": "TINGYUNISBACK",
-      "rewards": [
-        "Immortal's Delight x2",
-        "Credits x5,000"
-      ]
-    },
-    {
       "code": "VCUB4T2V4L8N5",
       "rewards": [
         "Refined Aether x3",
@@ -59,13 +38,6 @@
         "Traveler's Guide x3",
         "Immortal's Delight x3",
         "Credits x20,000"
-      ]
-    },
-    {
-      "code": "HSRFUGUE1225",
-      "rewards": [
-        "Traveler's Guide x3",
-        "Immortal's Delight x2"
       ]
     },
     {
@@ -1224,6 +1196,27 @@
       ]
     },
     {
+      "code": "HAPPYSUNDAY",
+      "rewards": [
+        "Halovian Winged Burger x2",
+        "Credits x5,000"
+      ]
+    },
+    {
+      "code": "SUNDAYCALENDAR",
+      "rewards": [
+        "Traveler's Guide x5",
+        "Classic SoulGlad x2"
+      ]
+    },
+    {
+      "code": "TINGYUNISBACK",
+      "rewards": [
+        "Immortal's Delight x2",
+        "Credits x5,000"
+      ]
+    },
+    {
       "code": "STARRAILOSAKA",
       "rewards": [
         "Adventure Log x2",
@@ -1277,6 +1270,13 @@
       "code": "HSRSEASTHEDAY",
       "rewards": [
         "x60 Stellar Jade"
+      ]
+    },
+    {
+      "code": "HSRFUGUE1225",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Immortal's Delight x2"
       ]
     }
   ]
