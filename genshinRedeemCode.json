@@ -20,14 +20,6 @@
         "Primogem ×60",
         "Adventurer's Experience ×5"
       ]
-    },
-    {
-      "code": "FORNATLAN",
-      "rewards": [
-        "40 Primogem",
-        "5 Withering Purpurbloom",
-        "3 Warrior's Metal Whistle"
-      ]
     }
   ],
   "inactive": [
@@ -473,6 +465,14 @@
       "rewards": [
         "Primogem ×30",
         "File:Item Hymn of Gathered Flame.pngFile:Item Hymn of Gathered Flame.png Hymn of Gathered Flame ×1"
+      ]
+    },
+    {
+      "code": "FORNATLAN",
+      "rewards": [
+        "40 Primogem",
+        "5 Withering Purpurbloom",
+        "3 Warrior's Metal Whistle"
       ]
     },
     {
