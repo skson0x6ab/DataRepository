@@ -164,6 +164,41 @@
         "x3 Lost Crystal",
         "x3 Clockie Pizza (Whole)"
       ]
+    },
+    {
+      "code": "BS3265PKCVXT",
+      "rewards": [
+        "x100 Stellar Jade",
+        "50,000 Credits"
+      ]
+    },
+    {
+      "code": "EAJJPMN3DDE3",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
+      ]
+    },
+    {
+      "code": "HELLOAMPHOREUS",
+      "rewards": [
+        "10,000 Credits",
+        "x2 High"
+      ]
+    },
+    {
+      "code": "RTKJPM6JVCFF",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "THISISTHEHERTA",
+      "rewards": [
+        "10,000 Credits",
+        "x2 Life Transmitter"
+      ]
     }
   ],
   "inactive": [
