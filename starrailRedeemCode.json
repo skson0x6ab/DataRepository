@@ -125,6 +125,34 @@
         "Refined Aether x4",
         "Credits x5,000"
       ]
+    },
+    {
+      "code": "HERTAGIFT",
+      "rewards": [
+        "x6 Adventure Log",
+        "x2 Automatic Wooden Dummy"
+      ]
+    },
+    {
+      "code": "NEWWORLD0115",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Steelclaw Dagger"
+      ]
+    },
+    {
+      "code": "THEHERTAGIFT",
+      "rewards": [
+        "x6 Adventure Log",
+        "x2 Disposable Shield"
+      ]
+    },
+    {
+      "code": "WA3BP6Q7R8S9",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Rough Sketch"
+      ]
     }
   ],
   "inactive": [
