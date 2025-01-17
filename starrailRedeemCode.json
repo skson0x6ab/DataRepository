@@ -153,6 +153,13 @@
         "20,000 Credits",
         "x3 Rough Sketch"
       ]
+    },
+    {
+      "code": "IFYOUAREREADINGTHIS",
+      "rewards": [
+        "Stellar Jade x60",
+        "Fuel x1"
+      ]
     }
   ],
   "inactive": [
