@@ -23,12 +23,6 @@
       ]
     },
     {
-      "code": "MIYABIRELEASE",
-      "rewards": [
-        "Polychrome x60"
-      ]
-    },
-    {
       "code": "ZZZASSEMBLE",
       "rewards": [
         "Polychrome x30"
@@ -40,13 +34,6 @@
         "Official Investigator Log x3",
         "W-Engine Power Supply x3",
         "Denny x20,000"
-      ]
-    },
-    {
-      "code": "PEY0T25T",
-      "rewards": [
-        "Polychrome ×60",
-        "Dennies x6,666"
       ]
     },
     {
@@ -212,6 +199,19 @@
       "code": "HARUMASAFREE",
       "rewards": [
         "50 Polychrome"
+      ]
+    },
+    {
+      "code": "MIYABIRELEASE",
+      "rewards": [
+        "Polychrome x60"
+      ]
+    },
+    {
+      "code": "PEY0T25T",
+      "rewards": [
+        "Polychrome ×60",
+        "Dennies x6,666"
       ]
     },
     {
