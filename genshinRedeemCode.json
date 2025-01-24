@@ -20,6 +20,48 @@
         "Primogem ×60",
         "Adventurer's Experience ×5"
       ]
+    },
+    {
+      "code": "GISPECIALPROGRAM54",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "GISpecialProgram54",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
+      "code": "MIZUKI0212MIZUKI",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "AISABATHHOUSE",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
+      ]
+    },
+    {
+      "code": "AisaBathhouse",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
+      ]
+    },
+    {
+      "code": "Mizuki0212Mizuki",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
     }
   ],
   "inactive": [
@@ -533,6 +575,27 @@
         "Goulash 1",
         "Sweet Madame 1",
         "Chenyu Brew 1"
+      ]
+    },
+    {
+      "code": "54YUANSHEN0212",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
+      "code": "RUIXIO212NEW",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "SANCHUANHUAJI",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
       ]
     }
   ]
