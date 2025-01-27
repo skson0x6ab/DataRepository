@@ -168,6 +168,22 @@
         "x 3 Lost Gold Fragment",
         "x2 Chrysos Heir Dolium"
       ]
+    },
+    {
+      "code": "O7P8G3H4I5J6",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Refined Aether",
+        "x3 Automatic Wooden Dummy"
+      ]
+    },
+    {
+      "code": "W7X8Q8R9S0T1",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Lost Crystal",
+        "x3 Topological Acceleration Band"
+      ]
     }
   ],
   "inactive": [
