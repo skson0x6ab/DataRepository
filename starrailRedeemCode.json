@@ -192,6 +192,38 @@
         "x3 Refined Aether",
         "x3 Energy Drink"
       ]
+    },
+    {
+      "code": "5O6PU1V2W3X4",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Dried Sagelore Fruit"
+      ]
+    },
+    {
+      "code": "M1K2I1J2K3L4",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Lost Crystal",
+        "x3 Disposable Kinetic Cannon"
+      ]
+    },
+    {
+      "code": "PS9RM3N4O5P6",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Rough"
+      ]
+    },
+    {
+      "code": "PYB9C9D0E1F2",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Tasty Field Nutrient Bar"
+      ]
     }
   ],
   "inactive": [
