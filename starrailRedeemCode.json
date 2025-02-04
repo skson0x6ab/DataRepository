@@ -83,13 +83,6 @@
       ]
     },
     {
-      "code": "ABC1CDEF0123",
-      "rewards": [
-        "Stellar Jades",
-        "EXP materials"
-      ]
-    },
-    {
       "code": "HSRAWAITSYOU",
       "rewards": [
         "Stellar Jades x60",
@@ -1392,6 +1385,13 @@
       "rewards": [
         "x100 Stellar Jade",
         "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "ABC1CDEF0123",
+      "rewards": [
+        "Stellar Jades",
+        "EXP materials"
       ]
     }
   ]
