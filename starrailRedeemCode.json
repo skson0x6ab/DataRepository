@@ -113,13 +113,6 @@
       ]
     },
     {
-      "code": "WA3BP6Q7R8S9",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Rough Sketch"
-      ]
-    },
-    {
       "code": "IFYOUAREREADINGTHIS",
       "rewards": [
         "Stellar Jade x60",
@@ -1392,6 +1385,13 @@
       "rewards": [
         "Stellar Jades",
         "EXP materials"
+      ]
+    },
+    {
+      "code": "WA3BP6Q7R8S9",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Rough Sketch"
       ]
     }
   ]
