@@ -182,6 +182,13 @@
         "x3 Traveler's Guide",
         "x3 Tasty Field Nutrient Bar"
       ]
+    },
+    {
+      "code": "AGLAEAGIFT",
+      "rewards": [
+        "x3 Traveler's Guide",
+        "x2 Chrysis Heir Dolium"
+      ]
     }
   ],
   "inactive": [
