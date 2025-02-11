@@ -22,16 +22,6 @@
       ]
     },
     {
-      "code": "GS54MTX685",
-      "rewards": [
-        "Mora ×30,000",
-        "Hero's Wit ×3",
-        "Guide to Transience ×3",
-        "Mystic Enhancement Ore ×5",
-        "Vayuda Turquoise Sliver ×3"
-      ]
-    },
-    {
       "code": "11KU0MNDK2RG",
       "rewards": [
         "Primogem ×60",
@@ -613,6 +603,16 @@
       "rewards": [
         "100 Primogems",
         "50,000 Mora"
+      ]
+    },
+    {
+      "code": "GS54MTX685",
+      "rewards": [
+        "Mora ×30,000",
+        "Hero's Wit ×3",
+        "Guide to Transience ×3",
+        "Mystic Enhancement Ore ×5",
+        "Vayuda Turquoise Sliver ×3"
       ]
     }
   ]
