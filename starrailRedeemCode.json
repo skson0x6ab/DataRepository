@@ -203,27 +203,6 @@
         "20,000 Credits",
         "x3 Bija of Consciousness"
       ]
-    },
-    {
-      "code": "7A324EYX6SHT",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x50000 Credit"
-      ]
-    },
-    {
-      "code": "4A2KLEHFPBGF",
-      "rewards": [
-        "Stellar Jades x100",
-        "Traveler's Guide x5"
-      ]
-    },
-    {
-      "code": "DB22LWYXPSY3",
-      "rewards": [
-        "Stellar Jades x100",
-        "Refined Aether x5"
-      ]
     }
   ],
   "inactive": [
@@ -1434,6 +1413,27 @@
       "rewards": [
         "20,000 Credits",
         "x3 Rough Sketch"
+      ]
+    },
+    {
+      "code": "7A324EYX6SHT",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "4A2KLEHFPBGF",
+      "rewards": [
+        "Stellar Jades x100",
+        "Traveler's Guide x5"
+      ]
+    },
+    {
+      "code": "DB22LWYXPSY3",
+      "rewards": [
+        "Stellar Jades x100",
+        "Refined Aether x5"
       ]
     }
   ]
