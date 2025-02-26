@@ -10,14 +10,6 @@
       ]
     },
     {
-      "code": "DEF3C9D0E1F2",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Traveler's Guide",
-        "x3 Cosmic Fried Rice"
-      ]
-    },
-    {
       "code": "HSRINGAMESTOP",
       "rewards": [
         "10,000 Credits",
@@ -27,80 +19,10 @@
       ]
     },
     {
-      "code": "NEWWORLD0115",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Steelclaw Dagger"
-      ]
-    },
-    {
       "code": "IFYOUAREREADINGTHIS",
       "rewards": [
         "Stellar Jade x60",
         "Fuel x1"
-      ]
-    },
-    {
-      "code": "O7P8G3H4I5J6",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Refined Aether",
-        "x3 Automatic Wooden Dummy"
-      ]
-    },
-    {
-      "code": "W7X8Q8R9S0T1",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Lost Crystal",
-        "x3 Topological Acceleration Band"
-      ]
-    },
-    {
-      "code": "3V2WG3H4I5J6",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Refined Aether",
-        "x3 Energy Drink"
-      ]
-    },
-    {
-      "code": "5O6PU1V2W3X4",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Traveler's Guide",
-        "x3 Dried Sagelore Fruit"
-      ]
-    },
-    {
-      "code": "M1K2I1J2K3L4",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Lost Crystal",
-        "x3 Disposable Kinetic Cannon"
-      ]
-    },
-    {
-      "code": "PS9RM3N4O5P6",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Traveler's Guide",
-        "x3 Rough"
-      ]
-    },
-    {
-      "code": "PYB9C9D0E1F2",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Traveler's Guide",
-        "x3 Tasty Field Nutrient Bar"
-      ]
-    },
-    {
-      "code": "BP6Q5Z6X7C8VB",
-      "rewards": [
-        "20,000 Credits",
-        "x3 Bija of Consciousness"
       ]
     },
     {
@@ -1300,6 +1222,14 @@
       ]
     },
     {
+      "code": "DEF3C9D0E1F2",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Cosmic Fried Rice"
+      ]
+    },
+    {
       "code": "LIGHTTHEWAY",
       "rewards": [
         "5000 Credits",
@@ -1387,6 +1317,13 @@
       ]
     },
     {
+      "code": "NEWWORLD0115",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Steelclaw Dagger"
+      ]
+    },
+    {
       "code": "THEHERTAGIFT",
       "rewards": [
         "x6 Adventure Log",
@@ -1409,6 +1346,62 @@
       ]
     },
     {
+      "code": "O7P8G3H4I5J6",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Refined Aether",
+        "x3 Automatic Wooden Dummy"
+      ]
+    },
+    {
+      "code": "W7X8Q8R9S0T1",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Lost Crystal",
+        "x3 Topological Acceleration Band"
+      ]
+    },
+    {
+      "code": "3V2WG3H4I5J6",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Refined Aether",
+        "x3 Energy Drink"
+      ]
+    },
+    {
+      "code": "5O6PU1V2W3X4",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Dried Sagelore Fruit"
+      ]
+    },
+    {
+      "code": "M1K2I1J2K3L4",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Lost Crystal",
+        "x3 Disposable Kinetic Cannon"
+      ]
+    },
+    {
+      "code": "PS9RM3N4O5P6",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Rough"
+      ]
+    },
+    {
+      "code": "PYB9C9D0E1F2",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Traveler's Guide",
+        "x3 Tasty Field Nutrient Bar"
+      ]
+    },
+    {
       "code": "AGLAEAGIFT",
       "rewards": [
         "x3 Traveler's Guide",
@@ -1420,6 +1413,13 @@
       "rewards": [
         "Stellar Jade x50",
         "Credits x10,000"
+      ]
+    },
+    {
+      "code": "BP6Q5Z6X7C8VB",
+      "rewards": [
+        "20,000 Credits",
+        "x3 Bija of Consciousness"
       ]
     },
     {
