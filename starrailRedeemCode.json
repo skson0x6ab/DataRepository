@@ -31,6 +31,13 @@
         "x6 Adventure Log",
         "x2 \"Dreamlight\" Mixed Sweets"
       ]
+    },
+    {
+      "code": "2A3LF64ANXSX",
+      "rewards": [
+        "Stellar Jade x50",
+        "Credit x10000"
+      ]
     }
   ],
   "inactive": [
@@ -1441,6 +1448,101 @@
       "rewards": [
         "Stellar Jades x100",
         "Refined Aether x5"
+      ]
+    },
+    {
+      "code": "2BKWKEHL6DJX",
+      "rewards": [
+        "Stellar Jade x100",
+        "Refined Aether x4"
+      ]
+    },
+    {
+      "code": "ABC1GHIJ4567",
+      "rewards": [
+        "Stellar Jade x50",
+        "Credits x10000"
+      ]
+    },
+    {
+      "code": "DB3FKWZ4NUG7",
+      "rewards": [
+        "Stellar Jade x100",
+        "Credit x50000"
+      ]
+    },
+    {
+      "code": "DEF3Y5Z6A7B8",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Cosmic Fried Rice x3",
+        "Credit x20000"
+      ]
+    },
+    {
+      "code": "HSR3AMPHOREUSA",
+      "rewards": [
+        "merica, Europe, Asia, TW/HK/Macao Stellar Jade x100",
+        "Traveler's Guide x5"
+      ]
+    },
+    {
+      "code": "HSR3DAWEISGIFTA",
+      "rewards": [
+        "merica, Europe, Asia, TW/HK/Macao Stellar Jade x100",
+        "Refined Aether x4"
+      ]
+    },
+    {
+      "code": "IFYOUAREREADING",
+      "rewards": [
+        "THIS Stellar Jade x60",
+        "Fuel x1"
+      ]
+    },
+    {
+      "code": "JB3F5KH6BFG7",
+      "rewards": [
+        "Traveler's Guide x2",
+        "Dreamville Special x2",
+        "Credit x10000"
+      ]
+    },
+    {
+      "code": "NB2W2XZ46VJT",
+      "rewards": [
+        "Stellar Jade x100",
+        "Traveler's Guide x5"
+      ]
+    },
+    {
+      "code": "ST3SHPNLNTN3",
+      "rewards": [
+        "Stellar Jade x50",
+        "Credit x10000"
+      ]
+    },
+    {
+      "code": "STARRAILOSAKAA",
+      "rewards": [
+        "sia Adventure Log x2",
+        "Lost Gold Fragment x2",
+        "Crystal Lizard Satay x2"
+      ]
+    },
+    {
+      "code": "STARRAILTREND20",
+      "rewards": [
+        "24 Traveler's Guide x3",
+        "Potato Fries Sundae x2"
+      ]
+    },
+    {
+      "code": "ZTMQB1L5W7H9S",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Immortal's Delight x3",
+        "Credit x20000"
       ]
     }
   ]
