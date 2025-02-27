@@ -1,13 +1,6 @@
 {
   "active": [
     {
-      "code": "HSAHLWFEFE",
-      "rewards": [
-        "Polychrome x60",
-        "Denny x6666"
-      ]
-    },
-    {
       "code": "ZENLESSGIFT",
       "rewards": [
         "Polychrome x50",
@@ -56,6 +49,13 @@
       "code": "CATCHABOO",
       "rewards": [
         "Polychrome x30"
+      ]
+    },
+    {
+      "code": "HSAHLWFEFE",
+      "rewards": [
+        "Polychrome x60",
+        "Denny x6666"
       ]
     },
     {
