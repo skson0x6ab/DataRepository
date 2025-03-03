@@ -8,14 +8,6 @@
       ]
     },
     {
-      "code": "RB5PPN4BV355",
-      "rewards": [
-        "Primogem ×30",
-        "Sea Ganoderma ×3",
-        "Mora ×20,000"
-      ]
-    },
-    {
       "code": "JCWJFZG57YFW",
       "rewards": [
         "10,000 Mora",
@@ -660,6 +652,14 @@
       "rewards": [
         "Primogem ×60",
         "Adventurer's Experience ×5"
+      ]
+    },
+    {
+      "code": "RB5PPN4BV355",
+      "rewards": [
+        "Primogem ×30",
+        "Sea Ganoderma ×3",
+        "Mora ×20,000"
       ]
     }
   ]
