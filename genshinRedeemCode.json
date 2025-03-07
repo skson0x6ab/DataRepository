@@ -14,15 +14,6 @@
         "Hero's Wit ×3",
         "Dreams of Healing Kageuchi Handguard ×5"
       ]
-    },
-    {
-      "code": "XA4N66LAC349",
-      "rewards": [
-        "Mora ×20,000",
-        "Fruit-Flavored Milk Candies ×2",
-        "Dreams of Healing ×2",
-        "Impeccably Organized ×2"
-      ]
     }
   ],
   "inactive": [
@@ -660,6 +651,15 @@
         "Matsutake Meat Rolls ×1",
         "Sparkling Berry Juice ×1",
         "Teyvat Fried Egg ×2"
+      ]
+    },
+    {
+      "code": "XA4N66LAC349",
+      "rewards": [
+        "Mora ×20,000",
+        "Fruit-Flavored Milk Candies ×2",
+        "Dreams of Healing ×2",
+        "Impeccably Organized ×2"
       ]
     }
   ]
