@@ -52,6 +52,13 @@
         "100 Primogems",
         "5 Hero's Wit"
       ]
+    },
+    {
+      "code": "COACHIANSAN0326",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
+      ]
     }
   ],
   "inactive": [
@@ -712,6 +719,13 @@
       "rewards": [
         "100 Primogems",
         "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "RONGHUAYANWU",
+      "rewards": [
+        "100 Primogems",
+        "50,000 Mora"
       ]
     }
   ]
