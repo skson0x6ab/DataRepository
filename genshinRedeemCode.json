@@ -24,41 +24,6 @@
         "Stir-Fried Fish Noodles ×5",
         "Jueyun Chili Chicken ×5"
       ]
-    },
-    {
-      "code": "GI55TETEOCAN",
-      "rewards": [
-        "Primogem ×100",
-        "Mystic Enhancement Ore ×10"
-      ]
-    },
-    {
-      "code": "GI55Teteocan",
-      "rewards": [
-        "100 Primogems",
-        "10 Mystic Enhancement Ore"
-      ]
-    },
-    {
-      "code": "GOGOVARESA0326",
-      "rewards": [
-        "Primogem ×100",
-        "Hero's Wit ×5"
-      ]
-    },
-    {
-      "code": "GoGoVaresa0326",
-      "rewards": [
-        "100 Primogems",
-        "5 Hero's Wit"
-      ]
-    },
-    {
-      "code": "COACHIANSAN0326",
-      "rewards": [
-        "Primogem ×100",
-        "Mora ×50,000"
-      ]
     }
   ],
   "inactive": [
@@ -708,6 +673,20 @@
       ]
     },
     {
+      "code": "GI55TETEOCAN",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "GI55Teteocan",
+      "rewards": [
+        "100 Primogems",
+        "10 Mystic Enhancement Ore"
+      ]
+    },
+    {
       "code": "TETEAOKAN0326",
       "rewards": [
         "100 Primogems",
@@ -715,10 +694,31 @@
       ]
     },
     {
+      "code": "GOGOVARESA0326",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "GoGoVaresa0326",
+      "rewards": [
+        "100 Primogems",
+        "5 Hero's Wit"
+      ]
+    },
+    {
       "code": "YUYANJIAOXI0326",
       "rewards": [
         "100 Primogems",
         "5 Hero's Wit"
+      ]
+    },
+    {
+      "code": "COACHIANSAN0326",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
       ]
     },
     {
