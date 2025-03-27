@@ -24,14 +24,6 @@
       ]
     },
     {
-      "code": "HSRCHOCO",
-      "rewards": [
-        "x3 Traveler's Guide",
-        "x3 Lost Lightdust",
-        "x3 Trick Snack"
-      ]
-    },
-    {
       "code": "HSRWHITEDAY2025",
       "rewards": [
         "x6 Adventure Log",
@@ -1579,6 +1571,14 @@
         "Traveler's Guide x3",
         "Immortal's Delight x3",
         "Credit x20000"
+      ]
+    },
+    {
+      "code": "HSRCHOCO",
+      "rewards": [
+        "x3 Traveler's Guide",
+        "x3 Lost Lightdust",
+        "x3 Trick Snack"
       ]
     }
   ]
