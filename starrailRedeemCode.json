@@ -43,27 +43,6 @@
         "x3 Traveler's Guide",
         "x2 Golden Honeycake"
       ]
-    },
-    {
-      "code": "JS3MKMVNEL63",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x50000 Credit"
-      ]
-    },
-    {
-      "code": "LT25JMU7F477",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x5 Traveler's Guide"
-      ]
-    },
-    {
-      "code": "CA353MC6WMQB",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x4 Refined Aether"
-      ]
     }
   ],
   "inactive": [
@@ -1600,6 +1579,27 @@
         "x3 Traveler's Guide",
         "x3 Lost Lightdust",
         "x3 Trick Snack"
+      ]
+    },
+    {
+      "code": "JS3MKMVNEL63",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "LT25JMU7F477",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "CA353MC6WMQB",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
       ]
     }
   ]
