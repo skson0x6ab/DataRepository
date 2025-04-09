@@ -12,15 +12,22 @@
     {
       "code": "LS342LYLC5FP",
       "rewards": [
-        "- (Stellar Jade x50",
+        "Stellar Jade x50",
         "Credit x10,000"
       ]
     },
     {
       "code": "HSRCASTORICE",
       "rewards": [
-        "- (Traveler's Guide x3",
+        "Traveler's Guide x3",
         "Redsoil Feed x2"
+      ]
+    },
+    {
+      "code": "FAREWELL",
+      "rewards": [
+        "Stellar Jade x60",
+        "Fuel x1"
       ]
     }
   ],
@@ -1562,7 +1569,7 @@
     {
       "code": "WHEREISTRIBBIE",
       "rewards": [
-        "- (Traveler's Guide x3",
+        "Traveler's Guide x3",
         "Oronyx Slate x2"
       ]
     },
