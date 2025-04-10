@@ -1622,6 +1622,13 @@
         "x100 Stellar Jade",
         "x4 Refined Aether"
       ]
+    },
+    {
+      "code": "0206GRANDOPEN",
+      "rewards": [
+        "5000 Credits",
+        "x2 Energy Drink"
+      ]
     }
   ]
 }
