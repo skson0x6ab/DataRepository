@@ -17,16 +17,6 @@
       ]
     },
     {
-      "code": "GS55YTPY8X",
-      "rewards": [
-        "Mora ×30,000",
-        "Hero's Wit ×3",
-        "Mystic Enhancement Ore ×5",
-        "Teachings of Conflict ×3",
-        "Vajrada Amethyst Sliver ×3"
-      ]
-    },
-    {
       "code": "SYVBY9I3MBI4",
       "rewards": [
         "Mora ×10,000",
@@ -34,16 +24,6 @@
         "Fine Enhancement Ore ×5",
         "Stir-Fried Fish Noodles ×5",
         "Jueyun Chili Chicken ×5"
-      ]
-    },
-    {
-      "code": "GS55YTONVQ",
-      "rewards": [
-        "30,000 Mora",
-        "3 Hero's Wit",
-        "5 Mystic Enhancement Ore",
-        "3 Teachings of Conflict",
-        "3 Vajrada Amethyst Sliver"
       ]
     }
   ],
@@ -772,6 +752,26 @@
       "rewards": [
         "Primogem ×60",
         "Adventurer's Experience ×5"
+      ]
+    },
+    {
+      "code": "GS55YTPY8X",
+      "rewards": [
+        "Mora ×30,000",
+        "Hero's Wit ×3",
+        "Mystic Enhancement Ore ×5",
+        "Teachings of Conflict ×3",
+        "Vajrada Amethyst Sliver ×3"
+      ]
+    },
+    {
+      "code": "GS55YTONVQ",
+      "rewards": [
+        "30,000 Mora",
+        "3 Hero's Wit",
+        "5 Mystic Enhancement Ore",
+        "3 Teachings of Conflict",
+        "3 Vajrada Amethyst Sliver"
       ]
     },
     {
