@@ -15,13 +15,6 @@
         "Polychrome x60",
         "Denny x6666"
       ]
-    },
-    {
-      "code": "MOCKINGBIRD",
-      "rewards": [
-        "300 Polychrome, x2 Senior Investigator Log, x3 W-Engine Energy Module,",
-        "30k Dennies"
-      ]
     }
   ],
   "inactive": [
@@ -271,6 +264,13 @@
         "Senior Investigator Log x2",
         "W-Engine Energy Module x3",
         "Denny x30,000"
+      ]
+    },
+    {
+      "code": "MOCKINGBIRD",
+      "rewards": [
+        "300 Polychrome, x2 Senior Investigator Log, x3 W-Engine Energy Module,",
+        "30k Dennies"
       ]
     }
   ]
