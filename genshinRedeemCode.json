@@ -17,16 +17,6 @@
       ]
     },
     {
-      "code": "SYVBY9I3MBI4",
-      "rewards": [
-        "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Stir-Fried Fish Noodles ×5",
-        "Jueyun Chili Chicken ×5"
-      ]
-    },
-    {
       "code": "UAL6MXW8BUFH",
       "rewards": [
         "Mora ×20,000",
@@ -770,6 +760,16 @@
         "Mystic Enhancement Ore ×5",
         "Teachings of Conflict ×3",
         "Vajrada Amethyst Sliver ×3"
+      ]
+    },
+    {
+      "code": "SYVBY9I3MBI4",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
       ]
     },
     {
