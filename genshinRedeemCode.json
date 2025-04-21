@@ -8,20 +8,13 @@
       ]
     },
     {
-      "code": "5AM75NYUGTTR",
+      "code": "OSOIDWA2R5H3",
       "rewards": [
-        "Primogem ×30",
-        "Mora ×20,000",
-        "Hero's Wit ×3",
-        "Blazed Meat Stew ×5"
-      ]
-    },
-    {
-      "code": "UAL6MXW8BUFH",
-      "rewards": [
-        "Mora ×20,000",
-        "Secret Art ×2",
-        "Honey-Glazed Ceviche ×2"
+        "10,000 Mora",
+        "10 Adventurer's Experience",
+        "5 Fine Enhacement Ore",
+        "5 Stir-Fried Fish Noodles",
+        "5 Jueyun Chili Chicken"
       ]
     }
   ],
@@ -753,6 +746,15 @@
       ]
     },
     {
+      "code": "5AM75NYUGTTR",
+      "rewards": [
+        "Primogem ×30",
+        "Mora ×20,000",
+        "Hero's Wit ×3",
+        "Blazed Meat Stew ×5"
+      ]
+    },
+    {
       "code": "GS55YTPY8X",
       "rewards": [
         "Mora ×30,000",
@@ -787,6 +789,14 @@
       "rewards": [
         "Primogem ×60",
         "Adventurer's Experience ×5"
+      ]
+    },
+    {
+      "code": "UAL6MXW8BUFH",
+      "rewards": [
+        "Mora ×20,000",
+        "Secret Art ×2",
+        "Honey-Glazed Ceviche ×2"
       ]
     }
   ]
