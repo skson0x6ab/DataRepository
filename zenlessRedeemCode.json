@@ -8,13 +8,6 @@
         "W-Engine Power Supply x3",
         "Bangboo Algorithm Module x1"
       ]
-    },
-    {
-      "code": "ZZZ16SPECIAL",
-      "rewards": [
-        "Polychrome x60",
-        "Denny x6666"
-      ]
     }
   ],
   "inactive": [
@@ -264,6 +257,13 @@
         "Senior Investigator Log x2",
         "W-Engine Energy Module x3",
         "Denny x30,000"
+      ]
+    },
+    {
+      "code": "ZZZ16SPECIAL",
+      "rewards": [
+        "Polychrome x60",
+        "Denny x6666"
       ]
     },
     {
