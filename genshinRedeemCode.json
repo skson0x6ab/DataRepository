@@ -16,27 +16,6 @@
         "5 Stir-Fried Fish Noodles",
         "5 Jueyun Chili Chicken"
       ]
-    },
-    {
-      "code": "GI56PARALOGISM",
-      "rewards": [
-        "Primogem ×100",
-        "Mystic Enhancement Ore ×10"
-      ]
-    },
-    {
-      "code": "CHEFESCOFFIER0507",
-      "rewards": [
-        "Primogem ×100",
-        "Hero's Wit ×5"
-      ]
-    },
-    {
-      "code": "IFACACUCU0507",
-      "rewards": [
-        "Primogem ×100",
-        "Mora ×50,000"
-      ]
     }
   ],
   "inactive": [
@@ -818,6 +797,27 @@
         "Mora ×20,000",
         "Secret Art ×2",
         "Honey-Glazed Ceviche ×2"
+      ]
+    },
+    {
+      "code": "GI56PARALOGISM",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "CHEFESCOFFIER0507",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "IFACACUCU0507",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
       ]
     }
   ]
