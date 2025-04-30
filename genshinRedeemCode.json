@@ -16,6 +16,36 @@
         "5 Stir-Fried Fish Noodles",
         "5 Jueyun Chili Chicken"
       ]
+    },
+    {
+      "code": "FATUI",
+      "rewards": [
+        "Primogem ×30"
+      ]
+    },
+    {
+      "code": "FROSTMOONSCIONS",
+      "rewards": [
+        "Primogem ×30"
+      ]
+    },
+    {
+      "code": "LIGHTKEEPERS",
+      "rewards": [
+        "Primogem ×30"
+      ]
+    },
+    {
+      "code": "THEWILDHUNT",
+      "rewards": [
+        "Primogem ×30"
+      ]
+    },
+    {
+      "code": "VOYNICHGUILD",
+      "rewards": [
+        "Primogem ×30"
+      ]
     }
   ],
   "inactive": [
