@@ -6,13 +6,6 @@
         "Primogem ×50",
         "Hero's Wit ×3"
       ]
-    },
-    {
-      "code": "ZT5RJ4AX4WYV",
-      "rewards": [
-        "Primogem ×60",
-        "Adventurer's Experience ×5"
-      ]
     }
   ],
   "inactive": [
@@ -861,6 +854,13 @@
       "code": "NODKRAI0910",
       "rewards": [
         "Primogem ×200"
+      ]
+    },
+    {
+      "code": "ZT5RJ4AX4WYV",
+      "rewards": [
+        "Primogem ×60",
+        "Adventurer's Experience ×5"
       ]
     }
   ]
