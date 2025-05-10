@@ -47,27 +47,6 @@
       "rewards": [
         "Stellar Jade x60"
       ]
-    },
-    {
-      "code": "WS25K4Y4C5ET",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x50000 Credit"
-      ]
-    },
-    {
-      "code": "GT34K5Z4U4EX",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x5 Traveler's Guide"
-      ]
-    },
-    {
-      "code": "SAJ4KLZLDMW3",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x4 Refined Aether"
-      ]
     }
   ],
   "inactive": [
@@ -1674,6 +1653,27 @@
       "rewards": [
         "5000 Credits",
         "x2 Energy Drink"
+      ]
+    },
+    {
+      "code": "WS25K4Y4C5ET",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "GT34K5Z4U4EX",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "SAJ4KLZLDMW3",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
       ]
     }
   ]
