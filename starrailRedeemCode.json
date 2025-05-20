@@ -30,22 +30,10 @@
       ]
     },
     {
-      "code": "7T34K5YLU5GT",
-      "rewards": [
-        "Stellar Jade x50"
-      ]
-    },
-    {
       "code": "ATELIERANAXA",
       "rewards": [
         "x3 Traveler's Guide",
         "x2 Dried Sagelore Fruit"
-      ]
-    },
-    {
-      "code": "GA3M24Z5C5KT",
-      "rewards": [
-        "Stellar Jade x60"
       ]
     }
   ],
@@ -1653,6 +1641,18 @@
       "rewards": [
         "5000 Credits",
         "x2 Energy Drink"
+      ]
+    },
+    {
+      "code": "7T34K5YLU5GT",
+      "rewards": [
+        "Stellar Jade x50"
+      ]
+    },
+    {
+      "code": "GA3M24Z5C5KT",
+      "rewards": [
+        "Stellar Jade x60"
       ]
     },
     {
