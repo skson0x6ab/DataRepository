@@ -1675,6 +1675,13 @@
         "x100 Stellar Jade",
         "x4 Refined Aether"
       ]
+    },
+    {
+      "code": "WAJ7CVBC4SG3T",
+      "rewards": [
+        "50 Stellar Jades",
+        "EXP materials"
+      ]
     }
   ]
 }
