@@ -6,16 +6,6 @@
         "Primogem ×50",
         "Hero's Wit ×3"
       ]
-    },
-    {
-      "code": "ZXUY83279WB1",
-      "rewards": [
-        "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Stir-Fried Fish Noodles ×5",
-        "Jueyun Chili Chicken ×5"
-      ]
     }
   ],
   "inactive": [
@@ -871,6 +861,16 @@
       "rewards": [
         "Primogem ×60",
         "Adventurer's Experience ×5"
+      ]
+    },
+    {
+      "code": "ZXUY83279WB1",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
       ]
     },
     {
