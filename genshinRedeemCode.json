@@ -30,6 +30,13 @@
         "Primogem ×100",
         "Mora ×50,000"
       ]
+    },
+    {
+      "code": "YOURSPACETIME",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
     }
   ],
   "inactive": [
