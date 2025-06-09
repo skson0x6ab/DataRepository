@@ -16,27 +16,6 @@
         "Stir-Fried Fish Noodles ×5",
         "Jueyun Chili Chicken ×5"
       ]
-    },
-    {
-      "code": "MASTERSKIRK0618",
-      "rewards": [
-        "Primogem ×100",
-        "Mystic Enhancement Ore ×10"
-      ]
-    },
-    {
-      "code": "VOIDSTAR0618",
-      "rewards": [
-        "Primogem ×100",
-        "Mora ×50,000"
-      ]
-    },
-    {
-      "code": "YOURSPACETIME",
-      "rewards": [
-        "Primogem ×100",
-        "Hero's Wit ×5"
-      ]
     }
   ],
   "inactive": [
@@ -922,6 +901,27 @@
         "Primogem ×60",
         "Mora ×20,000",
         "Hero's Wit ×3"
+      ]
+    },
+    {
+      "code": "MASTERSKIRK0618",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "VOIDSTAR0618",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
+      ]
+    },
+    {
+      "code": "YOURSPACETIME",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
       ]
     }
   ]
