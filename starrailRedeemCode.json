@@ -15,6 +15,20 @@
         "Traveler's Guide x3",
         "Golden Honeycake x2"
       ]
+    },
+    {
+      "code": "7B36DCTC5SZ7",
+      "rewards": [
+        "50x Stellar Jade",
+        "10,000 Credits"
+      ]
+    },
+    {
+      "code": "CIPHERLOOT",
+      "rewards": [
+        "3x Traveler's Guide",
+        "2x Purple Consumables"
+      ]
     }
   ],
   "inactive": [
