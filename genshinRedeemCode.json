@@ -6,23 +6,6 @@
         "Primogem ×50",
         "Hero's Wit ×3"
       ]
-    },
-    {
-      "code": "GS57YTSNLJ",
-      "rewards": [
-        "Mora ×30,000",
-        "Hero's Wit ×3",
-        "Mystic Enhancement Ore ×5",
-        "Teachings of Contention ×3",
-        "Shivada Jade Sliver ×3"
-      ]
-    },
-    {
-      "code": "8QD412QXCEU1",
-      "rewards": [
-        "Primogem ×60",
-        "Adventurer's Experience ×5"
-      ]
     }
   ],
   "inactive": [
@@ -939,6 +922,23 @@
       "rewards": [
         "Primogem ×100",
         "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "GS57YTSNLJ",
+      "rewards": [
+        "Mora ×30,000",
+        "Hero's Wit ×3",
+        "Mystic Enhancement Ore ×5",
+        "Teachings of Contention ×3",
+        "Shivada Jade Sliver ×3"
+      ]
+    },
+    {
+      "code": "8QD412QXCEU1",
+      "rewards": [
+        "Primogem ×60",
+        "Adventurer's Experience ×5"
       ]
     }
   ]
