@@ -29,6 +29,27 @@
         "3x Traveler's Guide",
         "2x Purple Consumables"
       ]
+    },
+    {
+      "code": "FTJ6CVTULSXP",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "ZS36CVBUMTZB",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "DTJ7CVACLBGF",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
+      ]
     }
   ],
   "inactive": [
