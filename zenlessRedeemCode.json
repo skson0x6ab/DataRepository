@@ -21,6 +21,15 @@
         "Polychromes x60",
         "Dennies x6,666"
       ]
+    },
+    {
+      "code": "SPOOKSHACK",
+      "rewards": [
+        "x30000 Dennies",
+        "x300 Polychrome",
+        "x3 W-Engine Energy Module",
+        "x2 Senior Investigator Logs"
+      ]
     }
   ],
   "inactive": [
