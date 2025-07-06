@@ -23,12 +23,49 @@
       ]
     },
     {
-      "code": "SPOOKSHACK",
+      "code": "ABZVGEWK3O",
       "rewards": [
-        "x30000 Dennies",
-        "x300 Polychrome",
-        "x3 W-Engine Energy Module",
-        "x2 Senior Investigator Logs"
+        "Denny x20,000"
+      ]
+    },
+    {
+      "code": "ZZZFOR",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Ether Plating Agent x5"
+      ]
+    },
+    {
+      "code": "ZZZSTAYING",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Bangboo System Widget x5"
+      ]
+    },
+    {
+      "code": "ZZZTHANK",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Senior Investigator Log x5"
+      ]
+    },
+    {
+      "code": "ZZZWITHUS",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Senior Investigator Log x5"
+      ]
+    },
+    {
+      "code": "ZZZYOU",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "W-Engine Energy Module x5"
       ]
     }
   ],
@@ -309,6 +346,24 @@
         "x2 Senior Investigator Logs",
         "x3 W-Engine Energy Module",
         "30k Dennies"
+      ]
+    },
+    {
+      "code": "SPOOKSHACK",
+      "rewards": [
+        "x30000 Dennies",
+        "x300 Polychrome",
+        "x3 W-Engine Energy Module",
+        "x2 Senior Investigator Logs"
+      ]
+    },
+    {
+      "code": "RPANNIVERSARY",
+      "rewards": [
+        "Polychromes x60",
+        "Official Investigator Log x2",
+        "W-Engine Power Supply x2",
+        "Bangboo Algorithm Module x2"
       ]
     }
   ]
