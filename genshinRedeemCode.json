@@ -8,14 +8,6 @@
       ]
     },
     {
-      "code": "FIGHTLIKESKIRK57",
-      "rewards": [
-        "Primogem ×40",
-        "Hero's Wit ×3",
-        "\"Abyssal Bounty\" ×1"
-      ]
-    },
-    {
       "code": "YTYD336W7K77",
       "rewards": [
         "Mora ×10,000",
@@ -982,6 +974,14 @@
       "rewards": [
         "Primogem ×60",
         "Adventurer's Experience ×5"
+      ]
+    },
+    {
+      "code": "FIGHTLIKESKIRK57",
+      "rewards": [
+        "Primogem ×40",
+        "Hero's Wit ×3",
+        "\"Abyssal Bounty\" ×1"
       ]
     }
   ]
