@@ -8,25 +8,6 @@
       ]
     },
     {
-      "code": "YTYD336W7K77",
-      "rewards": [
-        "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Stir-Fried Fish Noodles ×5",
-        "Jueyun Chili Chicken ×5"
-      ]
-    },
-    {
-      "code": "GIFTFROMSKIRK57",
-      "rewards": [
-        "Shivada Jade Fragment ×3",
-        "Meshing Gear ×3",
-        "Fine Enhancement Ore ×3",
-        "Mora ×30,000"
-      ]
-    },
-    {
       "code": "G9VY57AWQACW",
       "rewards": [
         "Primogem ×60",
@@ -982,6 +963,25 @@
         "Primogem ×40",
         "Hero's Wit ×3",
         "\"Abyssal Bounty\" ×1"
+      ]
+    },
+    {
+      "code": "YTYD336W7K77",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Stir-Fried Fish Noodles ×5",
+        "Jueyun Chili Chicken ×5"
+      ]
+    },
+    {
+      "code": "GIFTFROMSKIRK57",
+      "rewards": [
+        "Shivada Jade Fragment ×3",
+        "Meshing Gear ×3",
+        "Fine Enhancement Ore ×3",
+        "Mora ×30,000"
       ]
     }
   ]
