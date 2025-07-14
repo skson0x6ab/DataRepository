@@ -15,15 +15,6 @@
       ]
     },
     {
-      "code": "VAMOSACORRER25",
-      "rewards": [
-        "Mora ×20,000",
-        "Delicious Puff Pops ×1",
-        "Blazed Meat Stew ×1",
-        "Grainfruit Chips ×1"
-      ]
-    },
-    {
       "code": "EZIZ8W3J47NA",
       "rewards": [
         "Mora ×10,000",
@@ -992,6 +983,15 @@
         "Meshing Gear ×3",
         "Fine Enhancement Ore ×3",
         "Mora ×30,000"
+      ]
+    },
+    {
+      "code": "VAMOSACORRER25",
+      "rewards": [
+        "Mora ×20,000",
+        "Delicious Puff Pops ×1",
+        "Blazed Meat Stew ×1",
+        "Grainfruit Chips ×1"
       ]
     }
   ]
