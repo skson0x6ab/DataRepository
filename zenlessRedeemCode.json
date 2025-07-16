@@ -67,6 +67,13 @@
         "Denny x30,000",
         "W-Engine Energy Module x5"
       ]
+    },
+    {
+      "code": "ZZZ21SUMMER",
+      "rewards": [
+        "Polychrome x60",
+        "Denny x6,666"
+      ]
     }
   ],
   "inactive": [
