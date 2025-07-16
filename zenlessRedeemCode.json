@@ -10,25 +10,6 @@
       ]
     },
     {
-      "code": "ZZZ2NDSEASON",
-      "rewards": [
-        "50 Polychrome"
-      ]
-    },
-    {
-      "code": "ZZZ20NEWSEASON",
-      "rewards": [
-        "Polychromes x60",
-        "Dennies x6,666"
-      ]
-    },
-    {
-      "code": "ABZVGEWK3O",
-      "rewards": [
-        "Denny x20,000"
-      ]
-    },
-    {
       "code": "ZZZFOR",
       "rewards": [
         "Polychrome x20",
@@ -356,12 +337,31 @@
       ]
     },
     {
+      "code": "ZZZ2NDSEASON",
+      "rewards": [
+        "50 Polychrome"
+      ]
+    },
+    {
+      "code": "ZZZ20NEWSEASON",
+      "rewards": [
+        "Polychromes x60",
+        "Dennies x6,666"
+      ]
+    },
+    {
       "code": "SPOOKSHACK",
       "rewards": [
         "x30000 Dennies",
         "x300 Polychrome",
         "x3 W-Engine Energy Module",
         "x2 Senior Investigator Logs"
+      ]
+    },
+    {
+      "code": "ABZVGEWK3O",
+      "rewards": [
+        "Denny x20,000"
       ]
     },
     {
