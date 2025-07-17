@@ -10,46 +10,6 @@
       ]
     },
     {
-      "code": "ZZZFOR",
-      "rewards": [
-        "Polychrome x20",
-        "Denny x30,000",
-        "Ether Plating Agent x5"
-      ]
-    },
-    {
-      "code": "ZZZSTAYING",
-      "rewards": [
-        "Polychrome x20",
-        "Denny x30,000",
-        "Bangboo System Widget x5"
-      ]
-    },
-    {
-      "code": "ZZZTHANK",
-      "rewards": [
-        "Polychrome x20",
-        "Denny x30,000",
-        "Senior Investigator Log x5"
-      ]
-    },
-    {
-      "code": "ZZZWITHUS",
-      "rewards": [
-        "Polychrome x20",
-        "Denny x30,000",
-        "Senior Investigator Log x5"
-      ]
-    },
-    {
-      "code": "ZZZYOU",
-      "rewards": [
-        "Polychrome x20",
-        "Denny x30,000",
-        "W-Engine Energy Module x5"
-      ]
-    },
-    {
       "code": "ZZZ21SUMMER",
       "rewards": [
         "Polychrome x60",
@@ -371,6 +331,46 @@
         "Official Investigator Log x2",
         "W-Engine Power Supply x2",
         "Bangboo Algorithm Module x2"
+      ]
+    },
+    {
+      "code": "ZZZFOR",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Ether Plating Agent x5"
+      ]
+    },
+    {
+      "code": "ZZZSTAYING",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Bangboo System Widget x5"
+      ]
+    },
+    {
+      "code": "ZZZTHANK",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Senior Investigator Log x5"
+      ]
+    },
+    {
+      "code": "ZZZWITHUS",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "Senior Investigator Log x5"
+      ]
+    },
+    {
+      "code": "ZZZYOU",
+      "rewards": [
+        "Polychrome x20",
+        "Denny x30,000",
+        "W-Engine Energy Module x5"
       ]
     }
   ]
