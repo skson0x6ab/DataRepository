@@ -25,27 +25,6 @@
       ]
     },
     {
-      "code": "INEFFA0730BIRGITTA",
-      "rewards": [
-        "Primogem ×100",
-        "Mystic Enhancement Ore ×10"
-      ]
-    },
-    {
-      "code": "SUMMER0730ASHA",
-      "rewards": [
-        "Primogem ×100",
-        "Hero's Wit ×5"
-      ]
-    },
-    {
-      "code": "TRANQUILBANQUET",
-      "rewards": [
-        "Primogem ×100",
-        "Mora ×50,000"
-      ]
-    },
-    {
       "code": "CLD6ZWU35GTH",
       "rewards": [
         "Primogem ×60",
@@ -1020,6 +999,27 @@
         "Delicious Puff Pops ×1",
         "Blazed Meat Stew ×1",
         "Grainfruit Chips ×1"
+      ]
+    },
+    {
+      "code": "INEFFA0730BIRGITTA",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "SUMMER0730ASHA",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "TRANQUILBANQUET",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50,000"
       ]
     }
   ]
