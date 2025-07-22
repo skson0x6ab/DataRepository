@@ -31,13 +31,6 @@
       ]
     },
     {
-      "code": "ABKN6KR9UB5B",
-      "rewards": [
-        "Stellar Jade x50",
-        "Credit x10,000"
-      ]
-    },
-    {
       "code": "STARRAILFATE",
       "rewards": [
         "Traveler's Guide x3",
@@ -1758,6 +1751,13 @@
       "rewards": [
         "x100 Stellar Jade",
         "x4 Refined Aether"
+      ]
+    },
+    {
+      "code": "ABKN6KR9UB5B",
+      "rewards": [
+        "Stellar Jade x50",
+        "Credit x10,000"
       ]
     }
   ]
