@@ -32,14 +32,6 @@
       ]
     },
     {
-      "code": "VSWSRL22S4PD",
-      "rewards": [
-        "Mora ×20,000",
-        "Ideal Circumstance ×3",
-        "The Endeavor ×3"
-      ]
-    },
-    {
       "code": "GS58OT75MG",
       "rewards": [
         "Mora ×30,000",
@@ -1038,6 +1030,14 @@
       "rewards": [
         "Primogem ×100",
         "Mora ×50,000"
+      ]
+    },
+    {
+      "code": "VSWSRL22S4PD",
+      "rewards": [
+        "Mora ×20,000",
+        "Ideal Circumstance ×3",
+        "The Endeavor ×3"
       ]
     }
   ]
