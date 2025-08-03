@@ -43,27 +43,6 @@
         "Stellar Jade x50",
         "Credit x10000"
       ]
-    },
-    {
-      "code": "TB2NPKQ8USKF",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x50000 Credit"
-      ]
-    },
-    {
-      "code": "CT2N72RRUAJK",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x5 Traveler's Guide"
-      ]
-    },
-    {
-      "code": "YA37N29RUSJ7",
-      "rewards": [
-        "x100 Stellar Jade",
-        "x4 Refined Aether"
-      ]
     }
   ],
   "inactive": [
@@ -1786,6 +1765,27 @@
       "rewards": [
         "Stellar Jade x50",
         "Credit x10,000"
+      ]
+    },
+    {
+      "code": "TB2NPKQ8USKF",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "CT2N72RRUAJK",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "YA37N29RUSJ7",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
       ]
     }
   ]
