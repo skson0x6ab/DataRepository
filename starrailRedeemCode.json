@@ -36,13 +36,6 @@
         "Traveler's Guide x3",
         "Sword in the Stone x2"
       ]
-    },
-    {
-      "code": "YA266JQ8VA4X",
-      "rewards": [
-        "Stellar Jade x50",
-        "Credit x10000"
-      ]
     }
   ],
   "inactive": [
@@ -1765,6 +1758,13 @@
       "rewards": [
         "Stellar Jade x50",
         "Credit x10,000"
+      ]
+    },
+    {
+      "code": "YA266JQ8VA4X",
+      "rewards": [
+        "Stellar Jade x50",
+        "Credit x10000"
       ]
     },
     {
