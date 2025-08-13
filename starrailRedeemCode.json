@@ -16,25 +16,11 @@
       ]
     },
     {
-      "code": "PHAINONSENDOFF",
-      "rewards": [
-        "Traveler's Guide x3",
-        "Dried Bread x2"
-      ]
-    },
-    {
       "code": "CREATIONNYMPH",
       "rewards": [
         "Stellar Jade x60",
         "Fuel x1",
         "Heroic Variable x1"
-      ]
-    },
-    {
-      "code": "STARRAILFATE",
-      "rewards": [
-        "Traveler's Guide x3",
-        "Sword in the Stone x2"
       ]
     },
     {
@@ -1768,10 +1754,24 @@
       ]
     },
     {
+      "code": "PHAINONSENDOFF",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Dried Bread x2"
+      ]
+    },
+    {
       "code": "ABKN6KR9UB5B",
       "rewards": [
         "Stellar Jade x50",
         "Credit x10,000"
+      ]
+    },
+    {
+      "code": "STARRAILFATE",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Sword in the Stone x2"
       ]
     },
     {
