@@ -17,15 +17,6 @@
       ]
     },
     {
-      "code": "YUZUHAGIFT",
-      "rewards": [
-        "Official Investigator Log x10",
-        "Denny x10,000",
-        "W-Engine Power Supply x10",
-        "Crystallized Plating Agent x10"
-      ]
-    },
-    {
       "code": "ALICEYUZUHA",
       "rewards": [
         "Polychrome x50"
@@ -386,6 +377,15 @@
         "Polychrome x20",
         "Denny x30,000",
         "W-Engine Energy Module x5"
+      ]
+    },
+    {
+      "code": "YUZUHAGIFT",
+      "rewards": [
+        "Official Investigator Log x10",
+        "Denny x10,000",
+        "W-Engine Power Supply x10",
+        "Crystallized Plating Agent x10"
       ]
     }
   ]
