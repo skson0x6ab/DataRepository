@@ -21,6 +21,15 @@
       "rewards": [
         "Polychrome x50"
       ]
+    },
+    {
+      "code": "OBOLSQUAD",
+      "rewards": [
+        "Polychromes x300",
+        "Senior Investigator Log x2",
+        "W-Engine Energy Modules x3",
+        "Dennies x30,000"
+      ]
     }
   ],
   "inactive": [
@@ -386,15 +395,6 @@
         "Denny x10,000",
         "W-Engine Power Supply x10",
         "Crystallized Plating Agent x10"
-      ]
-    },
-    {
-      "code": "OBOLSQUAD",
-      "rewards": [
-        "Polychromes x300",
-        "Senior Investigator Log x2",
-        "W-Engine Energy Modules x3",
-        "Dennies x30,000"
       ]
     }
   ]
