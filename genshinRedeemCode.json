@@ -6,6 +6,27 @@
         "Primogem ×50",
         "Hero's Wit ×3"
       ]
+    },
+    {
+      "code": "LaumaNodKraiFlins",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "LunaI0910",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "HiFiveTraveler",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50000"
+      ]
     }
   ],
   "inactive": [
