@@ -8,19 +8,6 @@
         "W-Engine Power Supply x3",
         "Bangboo Algorithm Module x1"
       ]
-    },
-    {
-      "code": "ZZZ21SUMMER",
-      "rewards": [
-        "Polychrome x60",
-        "Denny x6,666"
-      ]
-    },
-    {
-      "code": "ALICEYUZUHA",
-      "rewards": [
-        "Polychrome x50"
-      ]
     }
   ],
   "inactive": [
@@ -380,12 +367,25 @@
       ]
     },
     {
+      "code": "ZZZ21SUMMER",
+      "rewards": [
+        "Polychrome x60",
+        "Denny x6,666"
+      ]
+    },
+    {
       "code": "YUZUHAGIFT",
       "rewards": [
         "Official Investigator Log x10",
         "Denny x10,000",
         "W-Engine Power Supply x10",
         "Crystallized Plating Agent x10"
+      ]
+    },
+    {
+      "code": "ALICEYUZUHA",
+      "rewards": [
+        "Polychrome x50"
       ]
     },
     {
