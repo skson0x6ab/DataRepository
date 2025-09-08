@@ -8,45 +8,9 @@
       ]
     },
     {
-      "code": "R4SCAU7CR1G9",
-      "rewards": [
-        "Primogem ×60"
-      ]
-    },
-    {
       "code": "TOUGNK89J77G",
       "rewards": [
         "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Jueyun Chili Chicken ×5",
-        "Stir-Fried Fish Noodles ×5"
-      ]
-    },
-    {
-      "code": "GS60YTM4NW",
-      "rewards": [
-        "Mora ×30,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Jueyun Chili Chicken ×5",
-        "Stir-Fried Fish Noodles ×5"
-      ]
-    },
-    {
-      "code": "GS60RDDADL",
-      "rewards": [
-        "Mora ×30,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Jueyun Chili Chicken ×5",
-        "Stir-Fried Fish Noodles ×5"
-      ]
-    },
-    {
-      "code": "GS60YTQ4NT",
-      "rewards": [
-        "Mora ×30,000",
         "Adventurer's Experience ×10",
         "Fine Enhancement Ore ×5",
         "Jueyun Chili Chicken ×5",
@@ -1140,6 +1104,42 @@
       "rewards": [
         "Primogem ×100",
         "Mora ×50000"
+      ]
+    },
+    {
+      "code": "R4SCAU7CR1G9",
+      "rewards": [
+        "Primogem ×60"
+      ]
+    },
+    {
+      "code": "GS60YTM4NW",
+      "rewards": [
+        "Mora ×30,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Jueyun Chili Chicken ×5",
+        "Stir-Fried Fish Noodles ×5"
+      ]
+    },
+    {
+      "code": "GS60RDDADL",
+      "rewards": [
+        "Mora ×30,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Jueyun Chili Chicken ×5",
+        "Stir-Fried Fish Noodles ×5"
+      ]
+    },
+    {
+      "code": "GS60YTQ4NT",
+      "rewards": [
+        "Mora ×30,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Jueyun Chili Chicken ×5",
+        "Stir-Fried Fish Noodles ×5"
       ]
     }
   ]
