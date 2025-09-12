@@ -43,6 +43,27 @@
         "Monarch's Maneuver x2",
         "Traveler's Guide x3"
       ]
+    },
+    {
+      "code": "WTK9Z6EMQPEP",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x50000 Credit"
+      ]
+    },
+    {
+      "code": "AA39GPEL9NHB",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "QSJQZ7WL9PZX",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
+      ]
     }
   ],
   "inactive": [
