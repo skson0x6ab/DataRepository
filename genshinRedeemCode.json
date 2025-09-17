@@ -8,14 +8,6 @@
       ]
     },
     {
-      "code": "NODKRAISP0909",
-      "rewards": [
-        "Mora ×20,000",
-        "Hero's Wit ×3",
-        "Mystic Enhancement Ore ×5"
-      ]
-    },
-    {
       "code": "GS60X27445",
       "rewards": [
         "Mora ×30,000",
@@ -1199,6 +1191,14 @@
         "Primogem ×40",
         "Adventurer's Experience ×5",
         "Mora ×20,000"
+      ]
+    },
+    {
+      "code": "NODKRAISP0909",
+      "rewards": [
+        "Mora ×20,000",
+        "Hero's Wit ×3",
+        "Mystic Enhancement Ore ×5"
       ]
     }
   ]
