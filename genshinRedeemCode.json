@@ -18,14 +18,6 @@
       ]
     },
     {
-      "code": "SAWFSXA7NCSM",
-      "rewards": [
-        "Moonfall Silver ×3",
-        "Mora ×20,000",
-        "Nod-Krai Hot Dog ×3"
-      ]
-    },
-    {
       "code": "AOZJ2TD5FZPV",
       "rewards": [
         "Primogem ×60",
@@ -1209,6 +1201,14 @@
         "Primogem ×40",
         "Mora ×20,000",
         "Hero's Wit ×3"
+      ]
+    },
+    {
+      "code": "SAWFSXA7NCSM",
+      "rewards": [
+        "Moonfall Silver ×3",
+        "Mora ×20,000",
+        "Nod-Krai Hot Dog ×3"
       ]
     }
   ]
