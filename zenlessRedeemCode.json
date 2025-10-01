@@ -15,15 +15,6 @@
         "Polychrome x60",
         "Denny x6,666"
       ]
-    },
-    {
-      "code": "LUCIA1015",
-      "rewards": [
-        "x30000 Dennies",
-        "x300 Polychrome",
-        "x3 W-Engine Energy Module",
-        "x2 Senior Investigator Logs"
-      ]
     }
   ],
   "inactive": [
@@ -411,6 +402,15 @@
         "Senior Investigator Log x2",
         "W-Engine Energy Modules x3",
         "Dennies x30,000"
+      ]
+    },
+    {
+      "code": "LUCIA1015",
+      "rewards": [
+        "x30000 Dennies",
+        "x300 Polychrome",
+        "x3 W-Engine Energy Module",
+        "x2 Senior Investigator Logs"
       ]
     }
   ]
