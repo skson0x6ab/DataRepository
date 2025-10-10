@@ -54,6 +54,13 @@
         "Primogem ×100",
         "Hero's Wit ×5"
       ]
+    },
+    {
+      "code": "MiliastraWonderland",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50000"
+      ]
     }
   ],
   "inactive": [
