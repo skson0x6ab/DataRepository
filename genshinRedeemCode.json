@@ -23,27 +23,6 @@
         "Jueyun Chili Chicken ×5",
         "Stir-Fried Fish Noodles ×5"
       ]
-    },
-    {
-      "code": "Nefer1022Ashru",
-      "rewards": [
-        "Primogem ×100",
-        "Mystic Enhancement Ore ×10"
-      ]
-    },
-    {
-      "code": "LunaII1022",
-      "rewards": [
-        "Primogem ×100",
-        "Hero's Wit ×5"
-      ]
-    },
-    {
-      "code": "MiliastraWonderland",
-      "rewards": [
-        "Primogem ×100",
-        "Mora ×50000"
-      ]
     }
   ],
   "inactive": [
@@ -1257,6 +1236,27 @@
         "Hero's Wit ×3",
         "Fine Enhancement Ore ×3",
         "Ile flottante ×1"
+      ]
+    },
+    {
+      "code": "Nefer1022Ashru",
+      "rewards": [
+        "Primogem ×100",
+        "Mystic Enhancement Ore ×10"
+      ]
+    },
+    {
+      "code": "LunaII1022",
+      "rewards": [
+        "Primogem ×100",
+        "Hero's Wit ×5"
+      ]
+    },
+    {
+      "code": "MiliastraWonderland",
+      "rewards": [
+        "Primogem ×100",
+        "Mora ×50000"
       ]
     }
   ]
