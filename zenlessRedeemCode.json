@@ -8,13 +8,6 @@
         "W-Engine Power Supply x3",
         "Bangboo Algorithm Module x1"
       ]
-    },
-    {
-      "code": "ZZZ22OBOLSQUAD",
-      "rewards": [
-        "Polychrome x60",
-        "Denny x6,666"
-      ]
     }
   ],
   "inactive": [
@@ -402,6 +395,13 @@
         "Senior Investigator Log x2",
         "W-Engine Energy Modules x3",
         "Dennies x30,000"
+      ]
+    },
+    {
+      "code": "ZZZ22OBOLSQUAD",
+      "rewards": [
+        "Polychrome x60",
+        "Denny x6,666"
       ]
     },
     {
