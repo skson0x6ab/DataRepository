@@ -15,16 +15,6 @@
       ]
     },
     {
-      "code": "WUSXOI92X54U",
-      "rewards": [
-        "Mora ×10,000",
-        "Adventurer's Experience ×10",
-        "Fine Enhancement Ore ×5",
-        "Jueyun Chili Chicken ×5",
-        "Stir-Fried Fish Noodles ×5"
-      ]
-    },
-    {
       "code": "GS61YTEFW9V6",
       "rewards": [
         "Mora ×10,000",
@@ -1253,6 +1243,16 @@
         "Hero's Wit ×3",
         "Fine Enhancement Ore ×3",
         "Ile flottante ×1"
+      ]
+    },
+    {
+      "code": "WUSXOI92X54U",
+      "rewards": [
+        "Mora ×10,000",
+        "Adventurer's Experience ×10",
+        "Fine Enhancement Ore ×5",
+        "Jueyun Chili Chicken ×5",
+        "Stir-Fried Fish Noodles ×5"
       ]
     },
     {
