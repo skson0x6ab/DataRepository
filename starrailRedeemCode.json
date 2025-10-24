@@ -43,6 +43,20 @@
         "x100 Stellar Jade",
         "x50000 Credit"
       ]
+    },
+    {
+      "code": "NBJ8HEJNZ5NF",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x5 Traveler's Guide"
+      ]
+    },
+    {
+      "code": "UT38ZEJPY573",
+      "rewards": [
+        "x100 Stellar Jade",
+        "x4 Refined Aether"
+      ]
     }
   ],
   "inactive": [
