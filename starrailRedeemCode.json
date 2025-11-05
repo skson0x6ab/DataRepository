@@ -24,20 +24,6 @@
       ]
     },
     {
-      "code": "MADFORMARCH",
-      "rewards": [
-        "Traveler's Guide x3",
-        "At Least We Gather for Now x2"
-      ]
-    },
-    {
-      "code": "FREEDANHENG",
-      "rewards": [
-        "Traveler's Guide x3",
-        "Earth Crystal Ore x2"
-      ]
-    },
-    {
       "code": "VAK9XB2BCGFX",
       "rewards": [
         "Stellar Jade x50",
@@ -1873,6 +1859,13 @@
       ]
     },
     {
+      "code": "MADFORMARCH",
+      "rewards": [
+        "Traveler's Guide x3",
+        "At Least We Gather for Now x2"
+      ]
+    },
+    {
       "code": "TB39Z7X49NZ7K",
       "rewards": [
         "50 Stellar Jade",
@@ -1905,6 +1898,13 @@
       "rewards": [
         "x100 Stellar Jade",
         "x4 Refined Aether"
+      ]
+    },
+    {
+      "code": "FREEDANHENG",
+      "rewards": [
+        "Traveler's Guide x3",
+        "Earth Crystal Ore x2"
       ]
     }
   ]
